@@ -12,7 +12,8 @@ var app = new Vue
         el: '#root',
         data: 
         {
-            titolo: "Titolo"
+            titolo: "Titolo",
+            image: './assets/img/img_01.jpg',
         }
         
     }
