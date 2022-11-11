@@ -12,8 +12,8 @@ var app = new Vue
         el: '#root',
         data: 
         {
-            titolo: "Titolo",
-            image: './assets/img/img_01.jpg',
+            titolo: "Vue",
+            image: "https://i.picsum.photos/id/557/200/300.jpg?hmac=eC86bsSOhqQjoHHnj3yzH5wMTIY9S3ys6cQjU1_QLGc"
         }
         
     }
